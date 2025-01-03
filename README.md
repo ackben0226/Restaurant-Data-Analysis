@@ -2,7 +2,7 @@
 
 ## 🔬 Overview
 
-This repository contains the Jupyter Notebook 'Restaurant Data Analysis.ipynb`, which comprehensively analyses restaurant-related data. The notebook is designed to derive insights, visualize trends, and support decision-making for food and beverage industry stakeholders.
+This repository contains the Jupyter Notebook'Restaurant_Data_Analysis.ipynb`, which comprehensively analyses restaurant-related data. The notebook is designed to derive insights, visualize trends, and support decision-making for food and beverage industry stakeholders.
 
 ## 🔧 Features
 
