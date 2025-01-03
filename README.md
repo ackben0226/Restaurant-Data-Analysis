@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, please contact:
 
 - **Name**: Benjamin Ackah
-- **Email**: [ack.ben0226@gmail.com](mailto\:ack.ben0226@gmail.com)
+- **Email**: [ack.ben0226@gmail.com](mailto\:ack.ben0226@gmail.com) 
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)**
