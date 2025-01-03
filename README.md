@@ -22,7 +22,7 @@ Ensure you have the following installed before running the notebook:
   - numpy
   - matplotlib
   - seaborn
-  - scikit-learn (if applicable)
+  - scikit-learn 
 
 Install the dependencies using pip:
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/ackben0226/Restaurant-Data-Analysis.git
    ```
 
 2. Navigate to the repository directory:
@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, please contact:
 
 - **Name**: Benjamin Ackah
-- **Email**: [ack.ben0226@gmail.com](mailto\:ack.ben0226@gmail.com) 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)**
+- **Email**: [Email](mailto\:ack.ben0226@gmail.com) 
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/your-profile)**
